@@ -96,4 +96,4 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 
 ## Contributing
 
-Suggestions and pull requests are welcome. Please read [`contributing.md`](contributing.md) before submitting a tool.
+Suggestions and pull requests are welcome. Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before submitting a tool.
