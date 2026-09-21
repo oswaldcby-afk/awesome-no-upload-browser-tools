@@ -1,0 +1,72 @@
+name: Suggest a browser tool
+description: Suggest a useful tool whose core work happens locally in the browser.
+title: "Add: "
+labels:
+  - suggestion
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      placeholder: Example Tool
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Tool URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested category
+      options:
+        - Image and Design
+        - PDF and Documents
+        - Audio and Video
+        - Text and Writing
+        - Data and Spreadsheets
+        - Developer and Security
+        - Tool Suites
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it worth including?
+      description: Explain what makes the tool useful, polished, or meaningfully different.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence that the core processing is local
+      description: Link to privacy documentation, architecture notes, source code, or another verifiable source.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: account
+    attributes:
+      label: Is an account required for the core listed task?
+      options:
+        - "No"
+        - "Yes"
+        - "Not sure"
+    validations:
+      required: true
+
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Affiliation disclosure
+      description: If you made, work for, or are otherwise affiliated with the tool, say so here. Otherwise write "None".
+    validations:
+      required: true
