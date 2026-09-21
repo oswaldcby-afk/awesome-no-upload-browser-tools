@@ -26,7 +26,7 @@ Maintainers and contributors are held to the same standard. A project should not
 ## How to Add a Tool
 
 1. Check the existing list and open pull requests for duplicates.
-2. Add the tool to the most specific category in `readme.md`.
+2. Add the tool to the most specific category in `README.md`.
 3. Keep entries in alphabetical order within the category.
 4. Use this format:
 
