@@ -30,6 +30,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [Compressly](https://getcompressly.com/) - Batch-compresses and converts JPG, PNG, WebP, AVIF, and JXL images with WebAssembly codecs in the browser.
 - [Dynapik](https://dynapik.com/) - Edits, resizes, crops, converts, and removes backgrounds from images without uploading the source files.
 - [ExifHub EXIF Remover](https://exifhub.com/exif-remover/) - Removes camera, GPS, and other embedded metadata from JPEG and PNG images locally.
+- [File Converter](https://fileontap.com/) - Converts and compresses images and handles image↔PDF tasks locally in the browser, with no upload or account required.
 - [image0.dev](https://image0.dev/) - Resizes, compresses, converts, batches, and strips image metadata locally, with offline support after loading.
 - [MassiveImg](https://massiveimg.com/) - Provides local image conversion and on-device AI image tools using browser-side WebAssembly.
 - [Metadata Remover](https://ianonymous3000.github.io/metadata-remover/) - Strips metadata from images, PDFs, Office documents, audio, video, and other supported files locally with WebAssembly.
