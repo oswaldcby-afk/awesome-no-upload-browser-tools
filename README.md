@@ -70,6 +70,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 
 - [99tools CSV & Excel Viewer](https://99tools.dev/tools/csv-viewer) - Opens CSV, TSV, Excel, and OpenDocument spreadsheets locally for sorting, searching, and export.
 - [Bryant Smith CSV Deduplicator](https://tools.bryantsmith.com/tools/csv-deduplicator/) - Removes duplicate CSV rows locally with configurable key columns and matching options.
+- [CheckBusiness](https://checkbusiness.pl/en/article/analysis-without-upload) - Runs ABC, XYZ and XYZ+ABC analysis on an XLSX sales export in the browser via a WebAssembly engine; the free demo analyses the whole file without an account.
 - [doff](https://doff-franklioxygen.vercel.app/) - Local-first diff workspace for text, images, PDFs, spreadsheets, and folders; file comparison happens in the browser.
 - [Motricialy Remove Hyperlinks from Excel](https://motricialy.com/tools/remove-hyperlinks-from-excel/) - Removes hyperlinks from Excel workbooks in the browser and returns a cleaned file.
 
