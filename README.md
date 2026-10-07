@@ -86,11 +86,12 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 
 - [Candid Tools](https://candidtools.com/) - Collection of client-side image, PDF, formatting, and utility tools; file-processing tools stay in the browser, while a small number of lookup features use network services.
 - [DuneTools](https://www.dunetools.com/) - Local-first PDF, image, media, and utility collection built around WebAssembly and browser processing.
+- [Hivly](https://hivly.net/) - Large collection of browser-local image, PDF, audio, video, text, spreadsheet, and file utilities with no file uploads.
+- [KupFollowersow.pl Calculators (Polish)](https://kupfollowersow.pl/tools) - Calculates Instagram/TikTok engagement ratios and daily or weekly follower-growth targets from manual numbers locally in the browser.
 - [LocalTools](https://localtools.io/) - Browser-local image, PDF, document, calculator, and utility collection with no account requirement.
 - [No Upload](https://noupload.dev/) - Local-only tools for PDFs, spreadsheets, images, invoices, and related small tasks.
 - [Tools Without AI](https://toolswithoutai.com/) - Large collection of client-side image, PDF, data, developer, text, color, Markdown, and SEO utilities.
 - [useonlinetools](https://useonlinetools.com/) - Open-source browser utilities for PDF, image, developer, and conversion tasks with no file uploads.
-- [Hivly](https://hivly.net/) - Large collection of browser-local image, PDF, audio, video, text, spreadsheet, and file utilities with no file uploads.
 
 ## Contributing
 
