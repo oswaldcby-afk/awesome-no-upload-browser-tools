@@ -46,6 +46,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [ClawPDF](https://clawpdf.netlify.app/) - Edits, merges, splits, rotates, watermarks, OCRs, and reorganizes PDFs in a static client-side app.
 - [CrabPDF](https://crabpdf.com/) - Provides a local PDF workspace for editing, annotation, OCR, redaction, page organization, and export.
 - [Mango PDF Editor](https://getmangoapp.com/pdf-editor/) - Adds text, drawing, highlights, merge, split, rotation, and page management entirely in the browser.
+- [MinuteKit PDF Studio](https://minutekit.pages.dev/pdf-studio/) - Creates PDF handouts from typed notes locally in the browser without uploading document text or requiring an account.
 - [Motricialy Remove Crop Marks from PDF](https://motricialy.com/tools/remove-crop-marks-from-pdf/) - Detects and removes printer crop-mark margins from PDFs in the browser.
 - [PDFLime](https://www.pdflime.com/) - Offers client-side PDF merge, split, compression, conversion, text extraction, and watermark tools.
 - [PDFMatrix](https://pdfmatrix.dharshankumar.com/) - Provides a privacy-first PDF toolkit for merging, splitting, rotating, converting, and related document tasks.
