@@ -56,6 +56,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [AudioMass](https://www.audiomass.co/) - Full-featured open-source audio and waveform editor that runs entirely in the browser with no backend.
 - [Hivly Audio Editor](https://hivly.net/audio/audio-editor/) - Edits audio locally with cut, trim, fades, gain changes, effects, and MP3 or WAV export.
 - [Nayan Editor](https://www.nayanui.com/video-editor) - Multi-track browser video editor using local WebCodecs processing with no upload requirement.
+- [QuietTake](https://noiseremover.site/) - Reduces speech noise locally with RNNoise and exports WAV without signup or audio upload, for files up to 50 MB and five minutes.
 - [Tapecut](https://tapecut.app/) - Cuts, splits, fades, normalizes, and exports audio locally in the browser.
 
 ## Text and Writing
