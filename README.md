@@ -57,6 +57,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [Hivly Audio Editor](https://hivly.net/audio/audio-editor/) - Edits audio locally with cut, trim, fades, gain changes, effects, and MP3 or WAV export.
 - [Nayan Editor](https://www.nayanui.com/video-editor) - Multi-track browser video editor using local WebCodecs processing with no upload requirement.
 - [Tapecut](https://tapecut.app/) - Cuts, splits, fades, normalizes, and exports audio locally in the browser.
+- [video2mp4 Local MP4 Converter](https://video2mp4.com/convert-video-to-mp4/) - Remuxes MP4-compatible streams from selected local video files in the browser without uploading them.
 
 ## Text and Writing
 
