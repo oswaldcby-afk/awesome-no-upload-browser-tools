@@ -63,6 +63,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [HermesMarkdown](https://hermesmarkdown.com/) - Edits Markdown in local folders and saves plain files directly to disk; GitHub sync and AI integrations are optional.
 - [iLoveMD Mermaid Editor](https://iluvmd.com/mermaid-editor) - Renders Mermaid diagrams locally and exports them as SVG or PNG without uploading diagram source.
 - [Motricialy SRT Line Breaker](https://motricialy.com/tools/srt-line-breaker/) - Reformats subtitle line breaks locally for SRT workflows.
+- [SubtitleFixer](https://subtitlefixer.com/) - Shifts, re-syncs, re-encodes, converts (SRT, VTT, ASS, SBV, SUB, TXT) and merges subtitle files locally in the browser; open-source code makes the no-upload processing verifiable.
 - [Open-Source Mermaid Editor](https://ryan-miles.github.io/open-source-mermaid-editor/) - Edits Mermaid diagrams and exports high-resolution images entirely in the browser.
 - [WebKnife Text Diff](https://webknife.net/diff) - Compares text by line, word, or character locally and exports a diff.
 
