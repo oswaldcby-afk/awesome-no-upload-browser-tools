@@ -31,6 +31,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [Dynapik](https://dynapik.com/) - Edits, resizes, crops, converts, and removes backgrounds from images without uploading the source files.
 - [ExifHub EXIF Remover](https://exifhub.com/exif-remover/) - Removes camera, GPS, and other embedded metadata from JPEG and PNG images locally.
 - [image0.dev](https://image0.dev/) - Resizes, compresses, converts, batches, and strips image metadata locally, with offline support after loading.
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Compresses and converts PNG/JPG/HEIC/WebP/AVIF images in the browser with WebAssembly codecs; files are not uploaded for the core workflow.
 - [MassiveImg](https://massiveimg.com/) - Provides local image conversion and on-device AI image tools using browser-side WebAssembly.
 - [Metadata Remover](https://ianonymous3000.github.io/metadata-remover/) - Strips metadata from images, PDFs, Office documents, audio, video, and other supported files locally with WebAssembly.
 - [Motricialy Image DPI Checker](https://motricialy.com/tools/image-dpi-checker/) - Checks image DPI and print-size information directly in the browser.
