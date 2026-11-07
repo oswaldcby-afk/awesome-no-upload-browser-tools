@@ -60,6 +60,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 
 ## Text and Writing
 
+- [ASCII Images Flowchart Generator](https://ascii-images.com/ascii-flowchart-generator) - Formats 1-8 ASCII-labelled steps and an optional final yes/no branch locally in the browser.
 - [HermesMarkdown](https://hermesmarkdown.com/) - Edits Markdown in local folders and saves plain files directly to disk; GitHub sync and AI integrations are optional.
 - [iLoveMD Mermaid Editor](https://iluvmd.com/mermaid-editor) - Renders Mermaid diagrams locally and exports them as SVG or PNG without uploading diagram source.
 - [Motricialy SRT Line Breaker](https://motricialy.com/tools/srt-line-breaker/) - Reformats subtitle line breaks locally for SRT workflows.
