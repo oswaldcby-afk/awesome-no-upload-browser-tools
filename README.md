@@ -73,6 +73,8 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [doff](https://doff-franklioxygen.vercel.app/) - Local-first diff workspace for text, images, PDFs, spreadsheets, and folders; file comparison happens in the browser.
 - [Motricialy Remove Hyperlinks from Excel](https://motricialy.com/tools/remove-hyperlinks-from-excel/) - Removes hyperlinks from Excel workbooks in the browser and returns a cleaned file.
 
+- [PageUtil CSV Fixer](https://pageutil.com/csv-fixer/) - Inspects CSV encoding and malformed rows, supports review of text repairs, and exports CSV or Excel with identifiers preserved as text, with file processing kept in the browser.
+
 ## Developer and Security
 
 - [CyberChef](https://cyberchef.app/) - Client-side toolkit for encoding, encryption, compression, parsing, and data analysis, with a few clearly documented network-aware operations.
