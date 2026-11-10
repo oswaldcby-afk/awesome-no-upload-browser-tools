@@ -75,6 +75,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 
 ## Developer and Security
 
+- [BestJSON](https://bestjson.com/) - Formats, validates, repairs, compares, and converts JSON locally in the browser without an account.
 - [CyberChef](https://cyberchef.app/) - Client-side toolkit for encoding, encryption, compression, parsing, and data analysis, with a few clearly documented network-aware operations.
 - [JSON Formatter by Loreatec](https://tools.loreatec.jp/data/format-json/) - Formats, validates, and downloads JSON locally in the browser.
 - [jsonfmt.dev](https://jsonfmt.dev/) - Local JSON toolkit for formatting, diffing, conversion, JWT decoding, repair, schema validation, and JSONPath evaluation.
