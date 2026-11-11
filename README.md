@@ -57,6 +57,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [Hivly Audio Editor](https://hivly.net/audio/audio-editor/) - Edits audio locally with cut, trim, fades, gain changes, effects, and MP3 or WAV export.
 - [Nayan Editor](https://www.nayanui.com/video-editor) - Multi-track browser video editor using local WebCodecs processing with no upload requirement.
 - [Tapecut](https://tapecut.app/) - Cuts, splits, fades, normalizes, and exports audio locally in the browser.
+- [VHS Filter](https://vhsfilter.com/) - Applies VHS-style tracking noise, color bleed, and tape texture to photos and short videos, with local preview and export.
 
 ## Text and Writing
 
