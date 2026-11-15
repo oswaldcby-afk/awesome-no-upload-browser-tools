@@ -28,6 +28,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 ## Image and Design
 
 - [Compressly](https://getcompressly.com/) - Batch-compresses and converts JPG, PNG, WebP, AVIF, and JXL images with WebAssembly codecs in the browser.
+- [Cross-Stitch Studio](https://cross-stitch.erwan-boehm.fr/projects/new?method=direct&utm_source=directory) - Converts a photo to an editable DMC cross-stitch chart and exports a printable PDF in the browser, without uploading the photo or requiring an account.
 - [Dynapik](https://dynapik.com/) - Edits, resizes, crops, converts, and removes backgrounds from images without uploading the source files.
 - [ExifHub EXIF Remover](https://exifhub.com/exif-remover/) - Removes camera, GPS, and other embedded metadata from JPEG and PNG images locally.
 - [image0.dev](https://image0.dev/) - Resizes, compresses, converts, batches, and strips image metadata locally, with offline support after loading.
