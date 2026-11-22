@@ -47,6 +47,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [CrabPDF](https://crabpdf.com/) - Provides a local PDF workspace for editing, annotation, OCR, redaction, page organization, and export.
 - [Mango PDF Editor](https://getmangoapp.com/pdf-editor/) - Adds text, drawing, highlights, merge, split, rotation, and page management entirely in the browser.
 - [Motricialy Remove Crop Marks from PDF](https://motricialy.com/tools/remove-crop-marks-from-pdf/) - Detects and removes printer crop-mark margins from PDFs in the browser.
+- [PDF Fan – Extraer páginas PDF](https://pdf.fan/es/extraer-paginas-pdf/) - Selects and previews pages in Spanish and extracts them from the original PDF in the browser.
 - [PDFLime](https://www.pdflime.com/) - Offers client-side PDF merge, split, compression, conversion, text extraction, and watermark tools.
 - [PDFMatrix](https://pdfmatrix.dharshankumar.com/) - Provides a privacy-first PDF toolkit for merging, splitting, rotating, converting, and related document tasks.
 - [PriviFile](https://privifile.com/) - Handles common PDF and image workflows locally, including annotation, redaction, page organization, and metadata cleanup.
