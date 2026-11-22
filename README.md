@@ -44,6 +44,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 ## PDF and Documents
 
 - [ClawPDF](https://clawpdf.netlify.app/) - Edits, merges, splits, rotates, watermarks, OCRs, and reorganizes PDFs in a static client-side app.
+- [ClearPDF Merge PDF](https://www.openclawhirehuman.com/tools/merge-pdf) - Reorders and merges multiple PDF files directly in the browser without an account or file upload.
 - [CrabPDF](https://crabpdf.com/) - Provides a local PDF workspace for editing, annotation, OCR, redaction, page organization, and export.
 - [Mango PDF Editor](https://getmangoapp.com/pdf-editor/) - Adds text, drawing, highlights, merge, split, rotation, and page management entirely in the browser.
 - [Motricialy Remove Crop Marks from PDF](https://motricialy.com/tools/remove-crop-marks-from-pdf/) - Detects and removes printer crop-mark margins from PDFs in the browser.
