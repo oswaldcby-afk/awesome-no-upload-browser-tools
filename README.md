@@ -37,6 +37,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [Motricialy Resize Image for Printing](https://motricialy.com/tools/resize-image-for-printing/) - Resizes images for common paper sizes and print DPI without a server-side file workflow.
 - [PicStudio](https://picstudio.app/) - Offers browser-local image editing, retouching, resizing, conversion, and on-device AI features.
 - [Pixmunk](https://pixmunk.com/) - Runs image background removal, upscaling, restoration, compression, OCR, and passport-photo tools on-device.
+- [Reletter](https://aiedittextinimage.com/) - Detects and edits image text locally in Standard mode and shows a free watermarked preview without signup.
 - [Squoosh](https://squoosh.app/) - Compresses and converts images locally using high-quality codecs without sending the image to a server.
 - [SVGFlow SVG Optimizer](https://svgflow.net/svg-optimizer) - Cleans and minifies SVG markup locally with configurable optimization passes.
 - [Watermarkerly](https://watermarkerly.com/) - Adds text or logo watermarks to images entirely in the browser.
