@@ -33,8 +33,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [image0.dev](https://image0.dev/) - Resizes, compresses, converts, batches, and strips image metadata locally, with offline support after loading.
 - [MassiveImg](https://massiveimg.com/) - Provides local image conversion and on-device AI image tools using browser-side WebAssembly.
 - [Metadata Remover](https://ianonymous3000.github.io/metadata-remover/) - Strips metadata from images, PDFs, Office documents, audio, video, and other supported files locally with WebAssembly.
-- [Motricialy Image DPI Checker](https://motricialy.com/tools/image-dpi-checker/) - Checks image DPI and print-size information directly in the browser.
-- [Motricialy Resize Image for Printing](https://motricialy.com/tools/resize-image-for-printing/) - Resizes images for common paper sizes and print DPI without a server-side file workflow.
+- [Motricialy Animated Discord Icon & Banner Maker](https://motricialy.com/tools/animated-discord-icon-banner-maker/) - Customizes animated templates, text, colors, and logos and renders looping Discord GIFs locally in the browser.
 - [PicStudio](https://picstudio.app/) - Offers browser-local image editing, retouching, resizing, conversion, and on-device AI features.
 - [Pixmunk](https://pixmunk.com/) - Runs image background removal, upscaling, restoration, compression, OCR, and passport-photo tools on-device.
 - [SquareImage.dev](https://squareimage.dev/) - Makes rectangular photos square with blur, solid-color padding, resize, or crop while processing images locally in the browser.
@@ -79,6 +78,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [Bryant Smith CSV Deduplicator](https://tools.bryantsmith.com/tools/csv-deduplicator/) - Removes duplicate CSV rows locally with configurable key columns and matching options.
 - [CSV Recipe](https://vit-percentage-recovery.cektekstudios.chatgpt.site/csv-recipe/) - Selects, reorders, and renames CSV columns locally, with reusable JSON recipes for repeated exports.
 - [doff](https://doff-franklioxygen.vercel.app/) - Local-first diff workspace for text, images, PDFs, spreadsheets, and folders; file comparison happens in the browser.
+- [Motricialy Online Excel Editor](https://motricialy.com/online-excel-editor/) - Creates and edits XLSX workbooks, including cell values and standard formulas, with local browser processing and XLSX export.
 - [Motricialy Remove Hyperlinks from Excel](https://motricialy.com/tools/remove-hyperlinks-from-excel/) - Removes hyperlinks from Excel workbooks in the browser and returns a cleaned file.
 - [PageUtil CSV Fixer](https://pageutil.com/csv-fixer/) - Inspects CSV encoding and malformed rows, supports review of text repairs, and exports CSV or Excel with identifiers preserved as text, with file processing kept in the browser.
 
