@@ -93,6 +93,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [DuneTools](https://www.dunetools.com/) - Local-first PDF, image, media, and utility collection built around WebAssembly and browser processing.
 - [LocalTools](https://localtools.io/) - Browser-local image, PDF, document, calculator, and utility collection with no account requirement.
 - [No Upload](https://noupload.dev/) - Local-only tools for PDFs, spreadsheets, images, invoices, and related small tasks.
+- [NoCloudFiles](https://nocloudfiles.com/) - Select contacts from a vCard backup, convert shifts to calendar events, and clean CSV files locally in the browser.
 - [Tools Without AI](https://toolswithoutai.com/) - Large collection of client-side image, PDF, data, developer, text, color, Markdown, and SEO utilities.
 - [useonlinetools](https://useonlinetools.com/) - Open-source browser utilities for PDF, image, developer, and conversion tasks with no file uploads.
 - [Hivly](https://hivly.net/) - Large collection of browser-local image, PDF, audio, video, text, spreadsheet, and file utilities with no file uploads.
