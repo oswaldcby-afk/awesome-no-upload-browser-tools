@@ -46,6 +46,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 
 - [ClawPDF](https://clawpdf.netlify.app/) - Edits, merges, splits, rotates, watermarks, OCRs, and reorganizes PDFs in a static client-side app.
 - [CrabPDF](https://crabpdf.com/) - Provides a local PDF workspace for editing, annotation, OCR, redaction, page organization, and export.
+- [Gingertool PDF Merge](https://gingertool.com/en/pdf/merge-pdf/) - Merge multiple PDF files in your browser without uploading them or creating an account.
 - [Mango PDF Editor](https://getmangoapp.com/pdf-editor/) - Adds text, drawing, highlights, merge, split, rotation, and page management entirely in the browser.
 - [MinuteKit PDF Studio](https://minutekit.pages.dev/pdf-studio/) - Creates PDF handouts from typed notes locally in the browser without uploading document text or requiring an account.
 - [Motricialy Online PDF Editor](https://motricialy.com/tools/online-pdf-editor/) - Edits PDF text and images, annotates documents, fills forms, adds signatures, and organizes pages with browser-local processing.
