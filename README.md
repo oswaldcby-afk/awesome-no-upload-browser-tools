@@ -49,6 +49,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [Mango PDF Editor](https://getmangoapp.com/pdf-editor/) - Adds text, drawing, highlights, merge, split, rotation, and page management entirely in the browser.
 - [MinuteKit PDF Studio](https://minutekit.pages.dev/pdf-studio/) - Creates PDF handouts from typed notes locally in the browser without uploading document text or requiring an account.
 - [Motricialy Remove Crop Marks from PDF](https://motricialy.com/tools/remove-crop-marks-from-pdf/) - Detects and removes printer crop-mark margins from PDFs in the browser.
+- [PDF Annotation](https://pdfannotation.app/) - Annotates, signs, fills forms, and marks up PDF files locally in the browser without requiring an account.
 - [PDFLime](https://www.pdflime.com/) - Offers client-side PDF merge, split, compression, conversion, text extraction, and watermark tools.
 - [PDFMatrix](https://pdfmatrix.dharshankumar.com/) - Provides a privacy-first PDF toolkit for merging, splitting, rotating, converting, and related document tasks.
 - [PriviFile](https://privifile.com/) - Handles common PDF and image workflows locally, including annotation, redaction, page organization, and metadata cleanup.
