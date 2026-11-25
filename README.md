@@ -77,6 +77,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 
 - [99tools CSV & Excel Viewer](https://99tools.dev/tools/csv-viewer) - Opens CSV, TSV, Excel, and OpenDocument spreadsheets locally for sorting, searching, and export.
 - [Bryant Smith CSV Deduplicator](https://tools.bryantsmith.com/tools/csv-deduplicator/) - Removes duplicate CSV rows locally with configurable key columns and matching options.
+- [CSV Compare by BiznTools](https://bizntools.com/data/csv-compare) - Compares two CSV exports by an exact ID or SKU in the browser and downloads the added, removed, and changed records as JSON.
 - [CSV Recipe](https://vit-percentage-recovery.cektekstudios.chatgpt.site/csv-recipe/) - Selects, reorders, and renames CSV columns locally, with reusable JSON recipes for repeated exports.
 - [doff](https://doff-franklioxygen.vercel.app/) - Local-first diff workspace for text, images, PDFs, spreadsheets, and folders; file comparison happens in the browser.
 - [Motricialy Online Excel Editor](https://motricialy.com/tools/online-excel-editor/) - Creates and edits XLSX workbooks, including cell values and standard formulas, with local browser processing and XLSX export.
