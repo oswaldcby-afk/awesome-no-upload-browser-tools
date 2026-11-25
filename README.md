@@ -68,8 +68,8 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [HermesMarkdown](https://hermesmarkdown.com/) - Edits Markdown in local folders and saves plain files directly to disk; GitHub sync and AI integrations are optional.
 - [iLoveMD Mermaid Editor](https://iluvmd.com/mermaid-editor) - Renders Mermaid diagrams locally and exports them as SVG or PNG without uploading diagram source.
 - [Motricialy SRT Line Breaker](https://motricialy.com/tools/srt-line-breaker/) - Reformats subtitle line breaks locally for SRT workflows.
-- [SubtitleFixer](https://subtitlefixer.com/) - Shifts, re-syncs, re-encodes, converts (SRT, VTT, ASS, SBV, SUB, TXT) and merges subtitle files locally in the browser; open-source code makes the no-upload processing verifiable.
 - [Open-Source Mermaid Editor](https://ryan-miles.github.io/open-source-mermaid-editor/) - Edits Mermaid diagrams and exports high-resolution images entirely in the browser.
+- [SubtitleFixer](https://subtitlefixer.com/) - Shifts, re-syncs, re-encodes, converts (SRT, VTT, ASS, SBV, SUB, TXT) and merges subtitle files locally in the browser; open-source code makes the no-upload processing verifiable.
 - [WebKnife Text Diff](https://webknife.net/diff) - Compares text by line, word, or character locally and exports a diff.
 
 ## Data and Spreadsheets
@@ -79,7 +79,6 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [CSV Recipe](https://vit-percentage-recovery.cektekstudios.chatgpt.site/csv-recipe/) - Selects, reorders, and renames CSV columns locally, with reusable JSON recipes for repeated exports.
 - [doff](https://doff-franklioxygen.vercel.app/) - Local-first diff workspace for text, images, PDFs, spreadsheets, and folders; file comparison happens in the browser.
 - [Motricialy Remove Hyperlinks from Excel](https://motricialy.com/tools/remove-hyperlinks-from-excel/) - Removes hyperlinks from Excel workbooks in the browser and returns a cleaned file.
-
 - [PageUtil CSV Fixer](https://pageutil.com/csv-fixer/) - Inspects CSV encoding and malformed rows, supports review of text repairs, and exports CSV or Excel with identifiers preserved as text, with file processing kept in the browser.
 
 ## Developer and Security
@@ -95,12 +94,12 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 
 - [Candid Tools](https://candidtools.com/) - Collection of client-side image, PDF, formatting, and utility tools; file-processing tools stay in the browser, while a small number of lookup features use network services.
 - [DuneTools](https://www.dunetools.com/) - Local-first PDF, image, media, and utility collection built around WebAssembly and browser processing.
+- [Hivly](https://hivly.net/) - Large collection of browser-local image, PDF, audio, video, text, spreadsheet, and file utilities with no file uploads.
 - [LocalTools](https://localtools.io/) - Browser-local image, PDF, document, calculator, and utility collection with no account requirement.
 - [No Upload](https://noupload.dev/) - Local-only tools for PDFs, spreadsheets, images, invoices, and related small tasks.
 - [NoCloudFiles](https://nocloudfiles.com/) - Select contacts from a vCard backup, convert shifts to calendar events, and clean CSV files locally in the browser.
 - [Tools Without AI](https://toolswithoutai.com/) - Large collection of client-side image, PDF, data, developer, text, color, Markdown, and SEO utilities.
 - [useonlinetools](https://useonlinetools.com/) - Open-source browser utilities for PDF, image, developer, and conversion tasks with no file uploads.
-- [Hivly](https://hivly.net/) - Large collection of browser-local image, PDF, audio, video, text, spreadsheet, and file utilities with no file uploads.
 
 ## Contributing
 
