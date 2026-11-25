@@ -34,6 +34,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [MassiveImg](https://massiveimg.com/) - Provides local image conversion and on-device AI image tools using browser-side WebAssembly.
 - [Metadata Remover](https://ianonymous3000.github.io/metadata-remover/) - Strips metadata from images, PDFs, Office documents, audio, video, and other supported files locally with WebAssembly.
 - [Motricialy Animated Discord Icon & Banner Maker](https://motricialy.com/tools/animated-discord-icon-banner-maker/) - Customizes animated templates, text, colors, and logos and renders looping Discord GIFs locally in the browser.
+- [Motricialy Online Image Editor](https://motricialy.com/tools/online-image-editor/) - Edits images locally in the browser with layers, text, drawing, cropping, adjustments, and filters.
 - [PicStudio](https://picstudio.app/) - Offers browser-local image editing, retouching, resizing, conversion, and on-device AI features.
 - [Pixmunk](https://pixmunk.com/) - Runs image background removal, upscaling, restoration, compression, OCR, and passport-photo tools on-device.
 - [SquareImage.dev](https://squareimage.dev/) - Makes rectangular photos square with blur, solid-color padding, resize, or crop while processing images locally in the browser.
@@ -47,7 +48,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [CrabPDF](https://crabpdf.com/) - Provides a local PDF workspace for editing, annotation, OCR, redaction, page organization, and export.
 - [Mango PDF Editor](https://getmangoapp.com/pdf-editor/) - Adds text, drawing, highlights, merge, split, rotation, and page management entirely in the browser.
 - [MinuteKit PDF Studio](https://minutekit.pages.dev/pdf-studio/) - Creates PDF handouts from typed notes locally in the browser without uploading document text or requiring an account.
-- [Motricialy Remove Crop Marks from PDF](https://motricialy.com/tools/remove-crop-marks-from-pdf/) - Detects and removes printer crop-mark margins from PDFs in the browser.
+- [Motricialy Online PDF Editor](https://motricialy.com/tools/online-pdf-editor/) - Edits PDF text and images, annotates documents, fills forms, adds signatures, and organizes pages with browser-local processing.
 - [PDF Annotation](https://pdfannotation.app/) - Annotates, signs, fills forms, and marks up PDF files locally in the browser without requiring an account.
 - [PDFLime](https://www.pdflime.com/) - Offers client-side PDF merge, split, compression, conversion, text extraction, and watermark tools.
 - [PDFMatrix](https://pdfmatrix.dharshankumar.com/) - Provides a privacy-first PDF toolkit for merging, splitting, rotating, converting, and related document tasks.
@@ -78,8 +79,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [Bryant Smith CSV Deduplicator](https://tools.bryantsmith.com/tools/csv-deduplicator/) - Removes duplicate CSV rows locally with configurable key columns and matching options.
 - [CSV Recipe](https://vit-percentage-recovery.cektekstudios.chatgpt.site/csv-recipe/) - Selects, reorders, and renames CSV columns locally, with reusable JSON recipes for repeated exports.
 - [doff](https://doff-franklioxygen.vercel.app/) - Local-first diff workspace for text, images, PDFs, spreadsheets, and folders; file comparison happens in the browser.
-- [Motricialy Online Excel Editor](https://motricialy.com/online-excel-editor/) - Creates and edits XLSX workbooks, including cell values and standard formulas, with local browser processing and XLSX export.
-- [Motricialy Remove Hyperlinks from Excel](https://motricialy.com/tools/remove-hyperlinks-from-excel/) - Removes hyperlinks from Excel workbooks in the browser and returns a cleaned file.
+- [Motricialy Online Excel Editor](https://motricialy.com/tools/online-excel-editor/) - Creates and edits XLSX workbooks, including cell values and standard formulas, with local browser processing and XLSX export.
 - [PageUtil CSV Fixer](https://pageutil.com/csv-fixer/) - Inspects CSV encoding and malformed rows, supports review of text repairs, and exports CSV or Excel with identifiers preserved as text, with file processing kept in the browser.
 
 ## Developer and Security
