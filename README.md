@@ -62,6 +62,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [QuietTake](https://noiseremover.site/) - Reduces speech noise locally with RNNoise and exports WAV without signup or audio upload, for files up to 50 MB and five minutes.
 - [Tapecut](https://tapecut.app/) - Cuts, splits, fades, normalizes, and exports audio locally in the browser.
 - [video2mp4 Local MP4 Converter](https://video2mp4.com/convert-video-to-mp4/) - Remuxes MP4-compatible streams from selected local video files in the browser without uploading them.
+- [Whisper Web Large-file Transcription](https://whisperwebfree.com/large-file-transcription) - Transcribes local audio and video up to 1 GiB and one hour in browser segments, with partial text and subtitle exports.
 
 ## Text and Writing
 
