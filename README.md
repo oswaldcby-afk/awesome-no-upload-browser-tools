@@ -53,6 +53,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [PDFLime](https://www.pdflime.com/) - Offers client-side PDF merge, split, compression, conversion, text extraction, and watermark tools.
 - [PDFMatrix](https://pdfmatrix.dharshankumar.com/) - Provides a privacy-first PDF toolkit for merging, splitting, rotating, converting, and related document tasks.
 - [PriviFile](https://privifile.com/) - Handles common PDF and image workflows locally, including annotation, redaction, page organization, and metadata cleanup.
+- [RedactBench](https://redactbench.com/redact-pdf-locally/) - Blacks out selected areas in PDFs and exports a flattened copy from the browser without uploading files.
 
 ## Audio and Video
 
